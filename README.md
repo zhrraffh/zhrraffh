@@ -1,12 +1,11 @@
-### Hi there i am zahraara 
-#### i am student 
-# Self Introduction
+### Hi there 
+# i want to introduce my self
 
 ## Name:
-Zahratunnisa Arrofifah
+Hallo my name is Zahratunnisa Arrofifah
 
 ## Age:
-16 years old
+i'am 16 years old
 
 ## Occupation:
 i'am a student
