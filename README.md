@@ -1,5 +1,20 @@
-### Hi there i am zahraara
+### Hi there i am zahraara 
+#### i am student 
+# Self Introduction
 
+## Name:
+Zahratunnisa Arrofifah
+
+## Age:
+16 years old
+
+## Occupation:
+i'am a student
+
+Nice to meet you! I'm delighted to share this information with you.
+"""
+    
+   
 <!--
 **zhrraffh/zhrraffh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
