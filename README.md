@@ -10,7 +10,7 @@ now i'am 16 years old
 
 ## occupation:
 🏫i'am a student at senior high scholl sains Al Qur'an Wahid Hasyim
-## adres:
+## address:
 🏡i come from bumen, bumirejo, mojotengah, wonosobo
 ## Hobby:
 my hobbies are:
