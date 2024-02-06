@@ -1,5 +1,5 @@
 ### Hi there 
-# i want to introduce my self☺
+# i want to introduce my self🧍‍♀️
 
 ## Name:
 👧Hallo my name is Zahratunnisa Arrofifah
@@ -8,9 +8,29 @@
 🎈i was born at 11 september 2007
 now i'am 16 years old
 
+## occupation:
+🏫i'am a student at senior high scholl sains Al Qur'an Wahid Hasyim
+## adres:
+🏡i come from bumen, bumirejo, mojotengah, wonosobo
+## Hobby:
+my hobbies are:
+🎤singing, 
+📖reading, 
+🚴‍♀️cycling, and
+🏊‍♀️swiming
+## Family:
+My family consists of 5 members are :
+👨my father
+👩my mother
+🧕my older sister
+👧me
+👧🏽my youngest sister
+## My Dream💫
+❣❣i want to be hafidz Qur'an and successfuly person
+Aamiin🤲🤲
 
-i'am a student at senior high scholl sains Al Qur'an Wahid Hasyim
-
+Thats all about me❗❗
+THANKYOU🤍🤍
 Nice to meet you! I'm delighted to share this information with you.
 """
     
