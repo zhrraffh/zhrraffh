@@ -1,14 +1,15 @@
 ### Hi there 
-# i want to introduce my self
+# i want to introduce my self☺
 
 ## Name:
-Hallo my name is Zahratunnisa Arrofifah
+👧Hallo my name is Zahratunnisa Arrofifah
 
 ## Age:
-i'am 16 years old
+🎈i was born at 11 september 2007
+now i'am 16 years old
 
-## Occupation:
-i'am a student
+
+i'am a student at senior high scholl sains Al Qur'an Wahid Hasyim
 
 Nice to meet you! I'm delighted to share this information with you.
 """
