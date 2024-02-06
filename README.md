@@ -14,10 +14,10 @@ now i'am 16 years old
 🏡i come from bumen, bumirejo, mojotengah, wonosobo
 ## Hobby:
 my hobbies are:
-#🎤singing, 
-#📖reading, 
-#🚴‍♀️cycling, and
-#🏊‍♀️swiming
+# 🎤singing, 
+# 📖reading, 
+# 🚴‍♀️cycling, and
+# 🏊‍♀️swiming
 ## Family:
 My family consists of 5 members are :
 👨my father
