@@ -14,24 +14,24 @@ now i'am 16 years old
 🏡i come from bumen, bumirejo, mojotengah, wonosobo
 ## Hobby:
 my hobbies are:
-### 🎤singing, 
- 📖reading, 
- 🚴‍♀️cycling, and 
- 🏊‍♀️swiming
+#### 🎤singing, 
+#### 📖reading, 
+#### 🚴‍♀️cycling, and 
+#### 🏊‍♀️swiming
 ## Family:
 My family consists of 5 members are :
-👨my father
-👩my mother
-🧕my older sister
-👧me
-👧🏽my youngest sister
+#### 👨my father
+#### 👩my mother
+#### 🧕my older sister
+#### 👧me
+#### 👧🏽my youngest sister
 ## My Dream💫
 ❣❣i want to be hafidz Qur'an and successfuly person
-Aamiin🤲🤲
+####Aamiin🤲🤲
 
-Thats all about me❗❗
-THANKYOU🤍🤍
-Nice to meet you! I'm delighted to share this information with you.
+####Thats all about me❗❗
+####THANKYOU🤍🤍
+####Nice to meet you! I'm delighted to share this information with you.
 """
     
    
