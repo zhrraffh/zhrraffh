@@ -29,9 +29,9 @@ My family consists of 5 members are :
 ❣❣i want to be hafidz Qur'an and successfuly person
 ####Aamiin🤲🤲
 
-####Thats all about me❗❗
-####THANKYOU🤍🤍
-####Nice to meet you! I'm delighted to share this information with you.
+#### Thats all about me❗❗
+#### THANKYOU🤍🤍
+#### Nice to meet you! I'm delighted to share this information with you.
 """
     
    
